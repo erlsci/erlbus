@@ -1,6 +1,4 @@
-{"1.1.0",
-[{<<"shards">>,{pkg,<<"shards">>,<<"0.6.0">>},0}]}.
-[
-{pkg_hash,[
- {<<"shards">>, <<"678D292AD74A4598A872930F9B12251F43E97F6050287F1FB712FBFD3D282F75">>}]}
-].
+[{<<"shards">>,
+  {git,"https://github.com/erlsci/shards.git",
+       {ref,"814ebf1f12e0a9e17ee2788ad8dbe4627b5c1d9b"}},
+  0}].
